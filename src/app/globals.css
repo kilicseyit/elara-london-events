@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream text-ink font-inter antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-cormorant;
+  }
+
+  *:focus-visible {
+    @apply outline-2 outline-gold outline-offset-2;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .btn-gold {
+    @apply inline-flex items-center justify-center px-7 py-3.5 bg-gold text-white font-inter text-sm tracking-widest uppercase transition-all duration-300 hover:bg-gold-light cursor-pointer;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center px-7 py-3.5 border border-white text-white font-inter text-sm tracking-widest uppercase transition-all duration-300 hover:bg-white hover:text-ink cursor-pointer;
+  }
+
+  .btn-outline-dark {
+    @apply inline-flex items-center justify-center px-7 py-3.5 border border-ink text-ink font-inter text-sm tracking-widest uppercase transition-all duration-300 hover:bg-ink hover:text-white cursor-pointer;
+  }
+
+  .eyebrow {
+    @apply font-inter text-xs uppercase tracking-[0.25em] text-gold;
+  }
+
+  .section-title {
+    @apply font-cormorant text-display-sm font-light text-ink leading-tight;
+  }
+
+  .container-pad {
+    @apply max-w-7xl mx-auto px-6 md:px-12 lg:px-16;
+  }
+}

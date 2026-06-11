@@ -1,0 +1,277 @@
+{
+  "nav": {
+    "home": "Anasayfa",
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "gallery": "Galeri",
+    "reservation": "Rezervasyon"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Londra'nın Önde Gelen Etkinlik Partneri",
+      "title": "Londra'nın Kalbinde Unutulmaz Anlar Yaratıyoruz",
+      "subtitle": "Titizlikle tasarlanmış, kusursuz biçimde hayata geçirilmiş etkinlik deneyimleri. Her organizasyon için sıradışı olanı sunuyoruz.",
+      "cta_services": "Hizmetlerimizi Keşfet",
+      "cta_reservation": "Rezervasyon Yap"
+    },
+    "stats": {
+      "years_value": "12+",
+      "years_label": "Yıllık Deneyim",
+      "events_value": "500+",
+      "events_label": "Düzenlenen Etkinlik",
+      "countries_value": "30+",
+      "countries_label": "Hizmet Verilen Ülke"
+    },
+    "services_section": {
+      "eyebrow": "Ne Yapıyoruz",
+      "title": "Her Özel An İçin Kişiye Özel Hizmet",
+      "learn_more": "Daha Fazla"
+    },
+    "services_preview": [
+      {
+        "title": "Kurumsal Etkinlikler",
+        "description": "Küçük ölçekli yönetim yemeklerinden büyük lansman organizasyonlarına kadar tüm detayları titizlikle yönetiyoruz."
+      },
+      {
+        "title": "Özel Kutlamalar",
+        "description": "Doğum günleri, yıldönümleri, özel geceler — size özgü bir hikâyeyi yansıtan, unutulmaz kutlamalar tasarlıyoruz."
+      },
+      {
+        "title": "DMC & Turlar",
+        "description": "Uluslararası heyetler, teşvik grupları ve seçkin ziyaretçiler için Londra'da eşsiz deneyimler sunuyoruz."
+      }
+    ],
+    "how_we_work": {
+      "eyebrow": "Çalışma Sürecimiz",
+      "title": "Hayalden Gerçeğe",
+      "steps": [
+        {
+          "title": "Danışma",
+          "description": "Vizyonunuzu, misafirlerinizi, hedeflerinizi ve yaratmak istediğiniz atmosferi anlamak için derin bir dinleme seansıyla başlıyoruz."
+        },
+        {
+          "title": "Özel Planlama",
+          "description": "Mekan, tedarikçiler, zaman çizelgesi ve yaratıcı yön — yalnızca size özel bir teklif hazırlıyoruz."
+        },
+        {
+          "title": "Kusursuz Uygulama",
+          "description": "Etkinlik gününde kıdemli ekibimiz baştan sona sahada olur ve her detayın planlandığı gibi hayata geçmesini sağlar."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Müşteri Hikayeleri",
+      "title": "En İyisini Bekleyenlerin Güvendiği İsim",
+      "items": [
+        {
+          "quote": "Elara ile çalışmak gerçek anlamda zahmetsizdi. Yıllık galayı ekibimizin hâlâ konuştuğu muhteşem bir geceye dönüştürdüler. Her element özenle düşünülmüş ve kusursuz biçimde uygulanmıştı.",
+          "name": "Sarah Mitchell",
+          "role": "Kurumsal İlişkiler Direktörü",
+          "company": "Barclays Londra"
+        },
+        {
+          "quote": "İlk görüşmeden son kadeheye kadar her an özenle düşünülmüştü. Elara, hayal ettiğimiz Londra düğününü bize yaşattı — ve bunun da ötesine geçti.",
+          "name": "James & Priya Nair",
+          "role": "Özel Müşteriler",
+          "company": "Mumbai & Londra"
+        },
+        {
+          "quote": "Dünyanın dört bir yanındaki DMC şirketleriyle çalışmış bir profesyonel olarak Elara'nın kendi liginde oynadığını rahatlıkla söyleyebilirim. Yerel bilgileri ve detaylara gösterdikleri özen eşsiz.",
+          "name": "Marcus Weber",
+          "role": "Kıdemli Etkinlik Yapımcısı",
+          "company": "Koenig & Partner GmbH"
+        }
+      ]
+    },
+    "cta_banner": {
+      "title": "Londra'daki Bir Sonraki Etkinliğinizi Planlamaya Hazır mısınız?",
+      "subtitle": "Bir sohbetle başlayalım. Vizyonunuzu paylaşın, gerisini biz halledelim.",
+      "button": "Bize Ulaşın"
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Sunduklarımız",
+      "title": "Hizmetlerimiz",
+      "subtitle": "Londra uzmanlığı ve küresel standartlarla sunulan kapsamlı etkinlik yönetimi ve DMC hizmetleri."
+    },
+    "items": [
+      {
+        "title": "Kurumsal Etkinlikler",
+        "description": "Küçük ölçekli yönetim yemeklerinden büyük ürün lansmanlarına ve uluslararası konferanslara kadar kurumsal etkinliklerinizin her aşamasını profesyonellikle yönetiyoruz.",
+        "features": [
+          "Konferanslar ve Genel Kurul Toplantıları",
+          "Ürün lansmanları ve marka aktivasyonları",
+          "Takım birlikleri ve şirket gezileri",
+          "Gala yemekleri ve ödül törenleri"
+        ]
+      },
+      {
+        "title": "Özel Kutlamalar",
+        "description": "Hayatın kilometre taşları, özenle kutlanmayı hak eder. Tamamen size özgü, benzersiz kutlamalar tasarlıyoruz.",
+        "features": [
+          "Milestone doğum günü kutlamaları",
+          "Yıldönümü ve nişan partileri",
+          "Lüks düğün koordinasyonu",
+          "Özel davetli yemek deneyimleri"
+        ]
+      },
+      {
+        "title": "Mekan Seçimi",
+        "description": "Tarihi saraylardan özel kulüplere, çağdaş çatı katlarından çevrimiçi listelenmeyen gizli mekânlara kadar Londra'nın en iyi mekânlarını yakından tanıyoruz.",
+        "features": [
+          "Seçilmiş mekan listeleri",
+          "Yerinde inceleme ve müzakereler",
+          "Özel erişim düzenlemeleri",
+          "Kapasite ve AV değerlendirmeleri"
+        ]
+      },
+      {
+        "title": "Şoför & Transfer",
+        "description": "İlk izlenim havalimanında başlar. Premium transfer hizmetimiz, küçük bir heyetten tam konferansa kadar her misafirinizin konforla ve şıklıkla ulaşmasını sağlar.",
+        "features": [
+          "Havalimanı ve otel transferleri",
+          "Lüks araç filosu",
+          "Çok dilli şoförler",
+          "Gerçek zamanlı uçuş takibi"
+        ]
+      },
+      {
+        "title": "Kültür Turları & Geziler",
+        "description": "Londra'nın en ikonik ve saklı mekânlarına özel erişim. Standart turist rotasının ötesini arayan gruplar için kişiye özel kültürel güzergâhlar tasarlıyoruz.",
+        "features": [
+          "Müze ve galeri özel ziyaretleri",
+          "Kraliyet Sarayı deneyimleri",
+          "Gurme ve gastronomi turları",
+          "Kişiye özel yürüyüş ve nehir turları"
+        ]
+      },
+      {
+        "title": "Tam DMC Paketi",
+        "description": "Uluslararası heyetler, teşvik grupları ve kurumsal seyahat programları için tam DMC paketimiz, varıştan ayrılışa kadar Londra ziyaretinizin her noktasını kapsar.",
+        "features": [
+          "Uçtan uca tur yönetimi",
+          "Konaklama seçimi ve oda planlaması",
+          "Eğlence ve akşam programları",
+          "Sahada özel etkinlik yöneticisi"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "story": {
+      "eyebrow": "Hikayemiz",
+      "title": "Etkinliklerin Olağanüstü Olması Gerektiği İnancıyla Doğduk",
+      "p1": "Elara London Events, 2012 yılında konaklama ve etkinlik sektörünün deneyimli profesyonelleri tarafından tek bir ortak inançla kuruldu: gerçekten istisnai etkinlikler kendiliğinden oluşmaz — özenle, sevgiyle yaratılır.",
+      "p2": "On yılı aşkın süre içinde kurumsal, özel ve uluslararası seyahat sektörlerinde 30'dan fazla ülkeden müşteriye hizmet veren, Londra'nın en güvenilir lüks etkinlik partnerlerinden biri haline geldik.",
+      "p3": "Adımız Elara, Jüpiter'in uydularından birinden geliyor — daha uzağa ulaşma, daha fazla aydınlatma ve yarattığımız her organizasyona gökyüzündeki bir kaliteyi taşıma hedefimizin simgesi."
+    },
+    "values": {
+      "eyebrow": "Bizi Yönlendiren İlkeler",
+      "title": "Değerlerimiz",
+      "items": [
+        {
+          "title": "Taviz Vermez Mükemmellik",
+          "description": "Her detayı en yüksek standartta tutuyoruz — bir masa süslemesinin yerleşiminden bir açılış konuşmasının zamanlamasına kadar. Bizim için 'yeterince iyi' hiçbir zaman yeterli değildir."
+        },
+        {
+          "title": "Mutlak Gizlilik",
+          "description": "Müşterilerimiz bize en önemli anlarını emanet ediyor. Bu güveni, her aşamada tam gizlilik, profesyonellik ve özenle karşılıyoruz."
+        },
+        {
+          "title": "Derin Yerel Bilgi",
+          "description": "Londra bizim evimiz. Mekânlarını, ritimlerini, tedarikçilerini ve sırlarını biliyoruz — bu bilgiyi, hiçbir yabancının kopyalayamayacağı deneyimler yaratmak için kullanıyoruz."
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Etkinliklerin Arkasındaki İnsanlar",
+      "title": "Ekibimizle Tanışın",
+      "members": [
+        {
+          "name": "Alexandra Reid",
+          "title": "Kurucu & Yaratıcı Direktör",
+          "bio": "Londra ve Avrupa genelinde 18 yıllık lüks konaklama deneyimiyle Alexandra, etkinliklerin en yüksek konukseverlik formu olduğu inancıyla Elara'yı kurdu."
+        },
+        {
+          "name": "Oliver Chen",
+          "title": "Operasyon Direktörü",
+          "bio": "Oliver, olağanüstü olanı mümkün kılan lojistiği yönetir — tedarikçi ağlarından en büyük etkinliklerimizin gün içi koordinasyonuna kadar."
+        },
+        {
+          "name": "Amara Osei",
+          "title": "Müşteri İlişkileri Direktörü",
+          "bio": "Amara, müşterilerimizin ilk duyduğu ses ve döndükçe güvendiği ilişkidir. Sıcaklığı ve uzmanlığı, Elara deneyiminin vazgeçilmez bir parçası haline gelmiştir."
+        }
+      ]
+    }
+  },
+  "reservation": {
+    "hero": {
+      "eyebrow": "İletişime Geçin",
+      "title": "Birlikte Olağanüstü Bir Şey Planlayalım",
+      "subtitle": "Etkinliğinizi bize anlatın, 24 saat içinde iletişime geçeceğiz."
+    },
+    "info": {
+      "expect_title": "Sizi Neler Bekliyor",
+      "steps": [
+        { "label": "24 saat içinde", "text": "Ekibimizden talebinizi onaylayan kişisel bir yanıt" },
+        { "label": "2–3. gün", "text": "Vizyonunuzu ve gereksinimlerinizi detaylı konuşmak için tanışma görüşmesi" },
+        { "label": "1 hafta içinde", "text": "Brifinginize özel hazırlanmış ilk teklif taslağı" },
+        { "label": "Süreç boyunca", "text": "Tüm süreçte tek iletişim noktanız olan özel etkinlik yöneticiniz" }
+      ],
+      "contact_title": "Doğrudan Ulaşın",
+      "email": "info@elaralondon.com",
+      "phone": "+44 20 7946 0123",
+      "address": "12 Mayfair House, Londra W1K 4BT"
+    },
+    "form": {
+      "title": "Talep Formu",
+      "full_name": "Ad Soyad",
+      "full_name_placeholder": "Adınız ve soyadınız",
+      "email": "E-posta Adresi",
+      "email_placeholder": "eposta@adresiniz.com",
+      "phone": "Telefon Numarası",
+      "phone_placeholder": "+90 veya uluslararası",
+      "event_type": "Etkinlik Türü",
+      "event_type_placeholder": "Etkinlik türünü seçin",
+      "event_types": ["Kurumsal", "Özel Kutlama", "Düğün", "Tur / Gezi", "Diğer"],
+      "date": "Tercih Edilen Tarih",
+      "guests": "Misafir Sayısı",
+      "guests_placeholder": "Tahmini misafir sayısı",
+      "budget": "Bütçe Aralığı",
+      "budget_placeholder": "Bütçe aralığını seçin",
+      "budgets": ["10.000 £ altı", "10.000 – 25.000 £", "25.000 – 50.000 £", "50.000 – 100.000 £", "100.000 £ ve üzeri", "Görüşülecek"],
+      "special_requests": "Özel İstekler",
+      "special_requests_placeholder": "Özel gereksinimler, tema tercihleri veya sorularınız...",
+      "submit": "Talebi Gönder",
+      "submitting": "Gönderiliyor...",
+      "success_title": "Teşekkürler",
+      "success_message": "Talebiniz alındı. 24 saat içinde sizinle iletişime geçeceğiz.",
+      "errors": {
+        "required": "Bu alan zorunludur",
+        "email_invalid": "Lütfen geçerli bir e-posta adresi girin"
+      }
+    }
+  },
+  "gallery": {
+    "hero": {
+      "eyebrow": "Çalışmalarımız",
+      "title": "Yarattıklarımızdan Bir Bakış",
+      "subtitle": "Her görsel, titizlikle kurgulanmış bir anı ve sevgiyle düşünülmüş bir detayı anlatıyor."
+    },
+    "close": "Kapat",
+    "prev": "Önceki",
+    "next": "Sonraki"
+  },
+  "footer": {
+    "tagline": "Londra'nın en güvenilir lüks etkinlik yönetimi ve DMC partneri.",
+    "quick_links": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "email": "info@elaralondon.com",
+    "phone": "+44 20 7946 0123",
+    "address": "12 Mayfair House, Londra W1K 4BT",
+    "copyright": "© 2024 Elara London Events. Tüm hakları saklıdır.",
+    "location": "Londra, Birleşik Krallık"
+  }
+}

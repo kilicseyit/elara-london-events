@@ -1,0 +1,277 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "gallery": "Gallery",
+    "reservation": "Reservation"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "London's Premier Event Partner",
+      "title": "Crafting Unforgettable Moments in the Heart of London",
+      "subtitle": "Bespoke event experiences, meticulously designed and flawlessly delivered. Whatever the occasion, we make it extraordinary.",
+      "cta_services": "Explore Services",
+      "cta_reservation": "Make a Reservation"
+    },
+    "stats": {
+      "years_value": "12+",
+      "years_label": "Years Experience",
+      "events_value": "500+",
+      "events_label": "Events Delivered",
+      "countries_value": "30+",
+      "countries_label": "Countries Served"
+    },
+    "services_section": {
+      "eyebrow": "What We Do",
+      "title": "Tailored Services for Every Occasion",
+      "learn_more": "Learn More"
+    },
+    "services_preview": [
+      {
+        "title": "Corporate Events",
+        "description": "From intimate boardroom dinners to large-scale product launches, we handle every detail so you can focus on what matters."
+      },
+      {
+        "title": "Private Celebrations",
+        "description": "Milestone birthdays, anniversary galas, intimate soirées — we craft celebrations that reflect your unique story."
+      },
+      {
+        "title": "DMC & Tours",
+        "description": "Exclusive London experiences for international delegations, incentive groups, and discerning visitors."
+      }
+    ],
+    "how_we_work": {
+      "eyebrow": "Our Process",
+      "title": "From Vision to Reality",
+      "steps": [
+        {
+          "title": "Consultation",
+          "description": "We begin with a deep listening session — understanding your vision, guests, objectives, and the feeling you want to create."
+        },
+        {
+          "title": "Bespoke Planning",
+          "description": "Our team builds a tailored proposal: venue, suppliers, timeline, creative direction — everything curated specifically for you."
+        },
+        {
+          "title": "Flawless Execution",
+          "description": "On the day, our senior team is on-site from start to finish, ensuring every detail lands exactly as planned."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Client Stories",
+      "title": "Trusted by Those Who Expect the Best",
+      "items": [
+        {
+          "quote": "Working with Elara was effortless. They transformed our annual gala into an evening our entire team still talks about. Every element was considered, refined, and perfectly executed.",
+          "name": "Sarah Mitchell",
+          "role": "Head of Corporate Affairs",
+          "company": "Barclays London"
+        },
+        {
+          "quote": "From the first consultation to the final toast, every moment felt considered. Elara gave us the London wedding we had always imagined — and then some.",
+          "name": "James & Priya Nair",
+          "role": "Private Clients",
+          "company": "Mumbai & London"
+        },
+        {
+          "quote": "As an incentive travel organiser, I have worked with DMCs around the world. Elara stands in a league of their own. Their local knowledge and attention to detail are unmatched.",
+          "name": "Marcus Weber",
+          "role": "Senior Event Producer",
+          "company": "Koenig & Partner GmbH"
+        }
+      ]
+    },
+    "cta_banner": {
+      "title": "Ready to Plan Your Next Event in London?",
+      "subtitle": "Let's start with a conversation. Tell us your vision — we'll take it from there.",
+      "button": "Contact Us"
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "What We Offer",
+      "title": "Our Services",
+      "subtitle": "Comprehensive event management and DMC services, delivered with London expertise and global standards."
+    },
+    "items": [
+      {
+        "title": "Corporate Events",
+        "description": "From intimate boardroom dinners to large-scale product launches and international conferences, we manage every aspect of your corporate event with professionalism and flair.",
+        "features": [
+          "Conferences & AGMs",
+          "Product launches & brand activations",
+          "Team building & away days",
+          "Gala dinners & award ceremonies"
+        ]
+      },
+      {
+        "title": "Private Celebrations",
+        "description": "Life's milestone moments deserve to be celebrated with intention. We design celebrations that feel entirely, unmistakably yours.",
+        "features": [
+          "Milestone birthday celebrations",
+          "Anniversary & engagement parties",
+          "Luxury wedding coordination",
+          "Intimate private dining experiences"
+        ]
+      },
+      {
+        "title": "Venue Sourcing",
+        "description": "We know London's finest venues intimately — from historic palaces and private members' clubs to contemporary rooftop spaces and hidden gems not listed online.",
+        "features": [
+          "Curated venue shortlists",
+          "Site visits & negotiations",
+          "Exclusive access arrangements",
+          "Capacity & AV assessments"
+        ]
+      },
+      {
+        "title": "Chauffeur & Transfers",
+        "description": "First impressions begin at the airport. Our premium transfer service ensures every guest arrives in comfort and style, whether for a small delegation or a full conference.",
+        "features": [
+          "Airport & hotel transfers",
+          "Fleet of luxury vehicles",
+          "Multilingual chauffeurs",
+          "Real-time flight monitoring"
+        ]
+      },
+      {
+        "title": "Cultural Tours & Excursions",
+        "description": "Private access to London's most iconic and hidden spaces. We design bespoke cultural itineraries for groups who want more than the standard tourist trail.",
+        "features": [
+          "Private museum & gallery access",
+          "Royal Palace experiences",
+          "Culinary & gastronomy tours",
+          "Bespoke walking & river tours"
+        ]
+      },
+      {
+        "title": "Full DMC Package",
+        "description": "For international delegations, incentive groups, and corporate travel programmes, our full DMC package covers every touchpoint of your London visit — from arrival to departure.",
+        "features": [
+          "End-to-end trip management",
+          "Accommodation sourcing & rooming",
+          "Entertainment & evening programmes",
+          "Dedicated on-site event manager"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "story": {
+      "eyebrow": "Our Story",
+      "title": "Born from a Belief That Events Should Be Extraordinary",
+      "p1": "Elara London Events was founded in 2012 by a team of hospitality and event professionals with one shared conviction: that truly exceptional events don't just happen — they are carefully, lovingly crafted.",
+      "p2": "Over more than a decade, we have grown into one of London's most trusted luxury event partners, serving clients from over 30 countries across corporate, private, and international travel sectors.",
+      "p3": "Our name, Elara, is drawn from the moons of Jupiter — a nod to our ambition to reach further, illuminate more, and bring a celestial quality to every occasion we create."
+    },
+    "values": {
+      "eyebrow": "What Guides Us",
+      "title": "Our Values",
+      "items": [
+        {
+          "title": "Excellence Without Compromise",
+          "description": "We hold every detail to the highest standard — from the placement of a centrepiece to the timing of a keynote. Good enough is never good enough for us."
+        },
+        {
+          "title": "Absolute Discretion",
+          "description": "Our clients trust us with their most significant moments. We honour that trust with complete confidentiality, professionalism, and care at every stage."
+        },
+        {
+          "title": "Deep Local Knowledge",
+          "description": "London is our home. We know its venues, its rhythms, its suppliers, and its secrets — and we use that knowledge to create experiences that no outsider could replicate."
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "The People Behind the Events",
+      "title": "Meet Our Team",
+      "members": [
+        {
+          "name": "Alexandra Reid",
+          "title": "Founder & Creative Director",
+          "bio": "With 18 years in luxury hospitality across London and Europe, Alexandra founded Elara on the belief that events are the highest form of hospitality."
+        },
+        {
+          "name": "Oliver Chen",
+          "title": "Head of Operations",
+          "bio": "Oliver oversees the logistics that make the extraordinary possible — from supplier networks to day-of coordination for our largest events."
+        },
+        {
+          "name": "Amara Osei",
+          "title": "Client Relations Director",
+          "bio": "Amara is the first voice our clients hear and the relationship they return to. Her warmth and expertise have made her indispensable to the Elara experience."
+        }
+      ]
+    }
+  },
+  "reservation": {
+    "hero": {
+      "eyebrow": "Get In Touch",
+      "title": "Let's Plan Something Extraordinary",
+      "subtitle": "Tell us about your event and we will be in touch within 24 hours to begin the conversation."
+    },
+    "info": {
+      "expect_title": "What to Expect",
+      "steps": [
+        { "label": "Within 24 hours", "text": "A personal response from our team acknowledging your enquiry" },
+        { "label": "Day 2–3", "text": "An introductory call to discuss your vision and requirements in detail" },
+        { "label": "Within 1 week", "text": "A bespoke preliminary proposal tailored to your brief" },
+        { "label": "Ongoing", "text": "A dedicated event manager as your single point of contact throughout" }
+      ],
+      "contact_title": "Contact Us Directly",
+      "email": "info@elaralondon.com",
+      "phone": "+44 20 7946 0123",
+      "address": "12 Mayfair House, London W1K 4BT"
+    },
+    "form": {
+      "title": "Enquiry Form",
+      "full_name": "Full Name",
+      "full_name_placeholder": "Your full name",
+      "email": "Email Address",
+      "email_placeholder": "your@email.com",
+      "phone": "Phone Number",
+      "phone_placeholder": "+44 or international",
+      "event_type": "Event Type",
+      "event_type_placeholder": "Select event type",
+      "event_types": ["Corporate", "Private Celebration", "Wedding", "Tour / Excursion", "Other"],
+      "date": "Preferred Date",
+      "guests": "Number of Guests",
+      "guests_placeholder": "Approx. guest count",
+      "budget": "Budget Range",
+      "budget_placeholder": "Select budget range",
+      "budgets": ["Under £10,000", "£10,000 – £25,000", "£25,000 – £50,000", "£50,000 – £100,000", "£100,000+", "To be discussed"],
+      "special_requests": "Special Requests",
+      "special_requests_placeholder": "Any specific requirements, themes, preferences, or questions...",
+      "submit": "Send Enquiry",
+      "submitting": "Sending...",
+      "success_title": "Thank You",
+      "success_message": "Your enquiry has been received. We will be in touch within 24 hours.",
+      "errors": {
+        "required": "This field is required",
+        "email_invalid": "Please enter a valid email address"
+      }
+    }
+  },
+  "gallery": {
+    "hero": {
+      "eyebrow": "Our Work",
+      "title": "A Glimpse of What We Create",
+      "subtitle": "Every image tells the story of a moment meticulously crafted, a detail lovingly considered."
+    },
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "footer": {
+    "tagline": "London's most trusted luxury event management and DMC partner.",
+    "quick_links": "Quick Links",
+    "contact": "Contact",
+    "email": "info@elaralondon.com",
+    "phone": "+44 20 7946 0123",
+    "address": "12 Mayfair House, London W1K 4BT",
+    "copyright": "© 2024 Elara London Events. All rights reserved.",
+    "location": "London, United Kingdom"
+  }
+}
