@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 
 const serviceImages = [
   'https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop&auto=format&q=80',
-  'https://images.unsplash.com/photo-1465495976277-4387d4b0b4c0?w=800&h=600&fit=crop&auto=format&q=80',
+  'https://images.unsplash.com/photo-1511578314322-25a7d42af2a3?w=800&h=600&fit=crop&auto=format&q=80',
   'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&h=600&fit=crop&auto=format&q=80',
 ]
 
