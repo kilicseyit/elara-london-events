@@ -69,9 +69,31 @@ export default function ReservationPage() {
     e.preventDefault()
     if (!validate()) return
     setLoading(true)
-    await new Promise((r) => setTimeout(r, 800))
-    setLoading(false)
-    setSubmitted(true)
+    try {
+      const res = await fetch('https://formspree.io/f/xvznwzrp', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({
+          name: form.fullName,
+          email: form.email,
+          phone: form.phone,
+          eventType: form.eventType,
+          date: form.date,
+          guests: form.guests,
+          budget: form.budget,
+          message: form.specialRequests,
+        }),
+      })
+      if (res.ok) {
+        setSubmitted(true)
+      } else {
+        alert('Something went wrong. Please try again.')
+      }
+    } catch {
+      alert('Something went wrong. Please try again.')
+    } finally {
+      setLoading(false)
+    }
   }
 
   const inputClass = (field: keyof FormData) =>
